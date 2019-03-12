@@ -8,7 +8,7 @@ Just to let you know, this is a highly opinionated way of doing things. I don't 
 3. oEmbed is included and adds quite a lot of bloat for what little it does.
 
 ## What it does
-- Removes unnecessary CSS files (at the moment, just the Block Library CSS (`block-library`).
+- Removes unnecessary CSS files (at the moment, just the Block Library CSS, `block-library`).
 - Remove jQuery Migrate, because it's not necessary in most cases.
 - Remove the quagmire that is oEmbed support. 
 
